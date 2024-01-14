@@ -1,1 +1,1 @@
-{"date": "2024-04-11T00:00:00", "commit": 33, "message": "security: add input sanitization to server actions"}
+{"date": "2024-01-15T00:00:00", "commit": 32, "message": "feat: add category selection with Radix Select component"}
