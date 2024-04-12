@@ -1,1 +1,1 @@
-{"date": "2024-06-10T00:00:00", "commit": 29, "message": "fix: handle API error responses consistently"}
+{"date": "2024-04-13T00:00:00", "commit": 28, "message": "fix: resolve Prisma connection pool exhaustion"}
