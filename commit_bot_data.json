@@ -1,1 +1,1 @@
-{"date": "2024-12-21T00:00:00", "commit": 15, "message": "db: create initial Prisma migration for core models"}
+{"date": "2024-09-25T00:00:00", "commit": 14, "message": "refactor: optimize Prisma queries with select and include"}
