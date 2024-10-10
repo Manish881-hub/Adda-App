@@ -1,1 +1,1 @@
-{"date": "2024-10-09T00:00:00", "commit": 23, "message": "chore: add Playwright for E2E testing"}
+{"date": "2024-10-11T00:00:00", "commit": 22, "message": "perf: optimize Prisma query performance with indexes"}
