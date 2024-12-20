@@ -1,1 +1,1 @@
-{"date": "2024-03-07T00:00:00", "commit": 16, "message": "feat: implement collapsible sidebar on mobile"}
+{"date": "2024-12-21T00:00:00", "commit": 15, "message": "db: create initial Prisma migration for core models"}
