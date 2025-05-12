@@ -30,10 +30,11 @@ const HeroSection = () => {
     <div className="pt-24 pb-20 px-4">
       <div className="container mx-auto text-center space-y-6">
         <h1 className="text-5xl md:text-8xl lg:text-[105px] pb-6 gradient-title">
-          Manage Your Property <br />with Adda-App
+          Manage Your Finances <br />with Intelligence
         </h1>
         <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
-          Enhance your community living with the Adda App—streamline management, connect with neighbors, and stay updated effortlessly. Experience smarter, more connected living today! 🚀
+        An AI-powered financial management platform that helps you track,
+        analyze, and optimize your spending with real-time insights.
         </p>
         <div className="flex justify-center space-x-4">
           <Link href="/dashboard">

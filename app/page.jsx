@@ -27,7 +27,7 @@ export default function Home() {
       <section className="py-20">
         <div className="container mx-auto px-4">
           <h2 className="text-4xl text-center font-bold mb-12">
-            Everything you need to manage your property
+            Everything you need to manage your Finances
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {featuresData.map((feature, index) => (
@@ -93,10 +93,11 @@ export default function Home() {
       <section className="py-20 bg-blue-600">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl text-white font-bold mb-4">
-            Ready to take control of your community living?
+            Ready to take control of your community Finances ?
           </h2>
           <p className="text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join 1000+ residents who have seamlessly managed their communities with Adda! 🏡📲 See what they have to say about their experience.
+          Join thousands of users who are already managing their finances
+          smarter with Welth
           </p>
 
           <Link href="/dashboard">

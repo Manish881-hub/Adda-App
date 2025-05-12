@@ -10,11 +10,11 @@ import {
 // Stats Data
 export const statsData = [
   {
-    value: "50K+",
+    value: "100+",
     label: "Active Users",
   },
   {
-    value: "$2B+",
+    value: "$1000+",
     label: "Transactions Tracked",
   },
   {
@@ -92,20 +92,20 @@ export const testimonialsData = [
     role: "Small Business Owner",
     image: "https://randomuser.me/api/portraits/women/75.jpg",
     quote:
-      "ADDA very useful app for apartment residents. Paying maintenance and raising complaints is super easy. However, the UI could be a bit more modern, and sometimes the app logs me out unexpectedly",
+      "This app  has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
   },
   {
     name: "Rakesh Ku. Pati",
     role: "Freelancer",
     image: "https://randomuser.me/api/portraits/men/75.jpg",
     quote:
-      "I love how Adda keeps me updated with everything happening in my society. The community discussion feature is great, and support is responsive. Just wish the app was a bit faster.",
+      "The receipt scanning feature saves me hours each month. Now I can focus on my work instead of manual data entry and expense tracking.",
   },
   {
-    name: "Manisha Das",
+    name: "Manisha Mohapatra",
     role: "Financial Advisor",
     image: "https://randomuser.me/api/portraits/women/74.jpg",
     quote:
-      "I love how Adda keeps me updated with everything happening in my society. The community discussion feature is great, and support is responsive. Just wish the app was a bit faster",
+      "I recommend this app to all my clients. The multi-currency support and detailed analytics make it perfect for international investors.",
   },
 ];
